@@ -1,6 +1,6 @@
 # 🛡️Tiktok_Signature
 
-> Tiktok_Signature 是一个方便快捷的工具，可以帮助你自动生成抖音 xbogus、mstoken 和 ttwid。
+> Tiktok_Signature 是一个方便快捷的工具，可以帮助你自动生成抖音 xbogus、mstoken 和 ttwid。deploy
 
 ## 功能介绍
 
